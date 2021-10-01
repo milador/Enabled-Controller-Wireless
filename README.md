@@ -27,7 +27,7 @@ The <a href="https://github.com/milador/Enabled-Controller-Wireless/blob/master/
 
 ### Enabled_Controller_Wireless_Software.ino  
 
-The <a href="https://raw.githubusercontent.com/milador/Enabled-Controller-Wireless/master/Software/Arduino/Enabled_Controller_WirelessSoftware/Enabled_Controller_Wireless_Software.ino">Enabled_Controller_Wireless_Software.ino</a> allows you to use adaptive switches as input method via keyboard/mouse HID profiles. 
+The <a href="https://raw.githubusercontent.com/milador/Enabled-Controller-Wireless/master/Software/Arduino/Enabled_Controller_Wireless_Software/Enabled_Controller_Wireless_Software.ino">Enabled_Controller_Wireless_Software.ino</a> allows you to use adaptive switches as input method via keyboard/mouse HID profiles. 
 
 ## Hardware 
 
