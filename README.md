@@ -1,5 +1,5 @@
 # Enabled-Controller-Wireless
-Enabled Controller is an open-source switch controller interface that enables those with limited or no hand movement to use Adaptive switches and analog joysticks in one device as inputs.
+Enabled Controller Wireless is an open-source bluetooth-enabled switch interface that enables those with limited or no hand movement to be able to use Adaptive switches and analog joysticks as inputs to operate their computers, smartphones, and game consoles.
 
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/milador/Enabled-Controller-Wireless/master/Resources/Images/Enabled-Controller-Wireless.png" width="50%" height="50%" alt="Enabled Controller Wireless"/>
